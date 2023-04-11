@@ -5,3 +5,6 @@ Link: https://github.com/ultralytics/yolov5/releases
 # Dataset
 CoronaHack -Chest X-Ray-Dataset was found in kaggle datasets. 
 Link: https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset
+
+# Preprocessing
+Some preprocessing of the dataset was applied on the images to improve performance. It can be done by running the script create_labels_and_preprocessing.ipynb
